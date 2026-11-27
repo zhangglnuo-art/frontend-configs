@@ -2949,4 +2949,19 @@
       "external": true,
       "internalWallet": false
 }
+,
+  {
+    "author": "AllSwap",
+    "id": "allswap",
+    "title": "AllSwap",
+    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/allswap.png",
+    "categories": ["Swaps", "Bridges"],
+    "shortDescription": "Non-custodial cross-chain DEX aggregator and multi-chain address validator across 46+ blockchains.",
+    "site": "https://allswap.io/",
+    "description": "AllSwap is a non-custodial cross-chain swap router and security toolkit supporting 46+ blockchains including Ethereum, Base, Optimism, Arbitrum, Gnosis, and major L2 networks, featuring pre-execution address poisoning and memo validation.",
+    "url": "https://allswap.io/",
+    "github": "https://github.com/zhangglnuo-art/multichain-memo-address-validator",
+    "external": true,
+    "internalWallet": false
+  }
 ]
